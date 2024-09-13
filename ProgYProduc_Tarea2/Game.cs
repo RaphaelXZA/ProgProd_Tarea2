@@ -4,7 +4,6 @@ internal class Game
 {
     private Player player;
     private List<Character> enemiesList;
-    Random rndom = new Random();
 
 
     public void Execute()
